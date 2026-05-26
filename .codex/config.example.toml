@@ -1,0 +1,8 @@
+[mcpServers.wordpress-local]
+command = "npx"
+args = ["-y", "@automattic/mcp-wordpress-remote@latest"]
+
+[mcpServers.wordpress-local.env]
+WP_API_URL = "http://localhost/inside-2/wp-json/mcp/mcp-adapter-default-server"
+WP_API_USERNAME = "admin"
+WP_API_PASSWORD = ""

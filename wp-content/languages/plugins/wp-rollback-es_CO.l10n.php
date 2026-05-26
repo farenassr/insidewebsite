@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.3','translation-revision-date'=>'2022-02-16 07:31:01+0000','plural-forms'=>'nplurals=2; plural=n != 1;','project-id-version'=>'Plugins - WP Rollback &#8211; Rollback Plugins and Themes - Stable (latest release)','language'=>'es_CO','messages'=>['WP Rollback'=>'WP Rollback']];
